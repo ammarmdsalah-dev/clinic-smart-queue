@@ -71,13 +71,7 @@ Or open the `.csproj` file in Visual Studio and press `Ctrl + F5`.
 | `Stack<Action>` | Stores undo actions in LIFO order |
 | `List<Patient>` | Tracks patients seen today for the daily report |
 
----
 
-## Color-Coded Output
-
-Used `Console.ForegroundColor` to color-code severity levels directly in the terminal.
-Emergency patients appear in red and normal cases in white,
-making the queue easier to read at a glance without digging through text.
 
 ---
 
