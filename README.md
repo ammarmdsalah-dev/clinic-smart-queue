@@ -19,7 +19,6 @@ This system fixes that by automatically putting emergency cases first.
 |---|---|
 | Priority Queue | Emergency patients are always called before normal ones |
 | Undo System | Reverse the last action at any point |
-| Patient Lookup | Find any patient instantly by ID |
 | Daily Report | End-of-session summary of registered and seen patients |
 
 ---
